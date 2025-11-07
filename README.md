@@ -51,11 +51,6 @@ Each file is cleanly commented and well-organized, making customization easy eve
 
 
 
-🖥️ Live Demo
-
-View the live preview here:
-👉 https://yourusername.github.io/flowgenic-ai
-
 
 🧠 Technologies Used
 
